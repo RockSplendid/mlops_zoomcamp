@@ -1,2 +1,1 @@
-# sa_zoomcamp
-Stock Analytics Zoomcamp
+# Stock Analytics Zoomcamp
