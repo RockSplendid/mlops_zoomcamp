@@ -1,1 +1,1 @@
-# Stock Analytics Zoomcamp
+# MLOps Zoomcamp
